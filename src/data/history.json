@@ -1,29 +1,30 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Project Manager",
+    "organisation": " MFDigitalLaw",
+    "startDate": "Jul, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Gerenciando Projeto do Ssimples ao complexo, exemplo: automações e sistema operacional jurídico."],
+    "imageSrc": "history/mfdigital.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Developer Software",
+    "organisation": "Engeneering",
+    "startDate": "jun, 2022",
+    "endDate": "jan. 2023",
+    "experiences": ["Desenvolvedor Sistema SalesForce realizando Deploy de melhoria para Enel Soluçoes", "Tratativo de erro na ferramentas Financeiro da SABESP"],
+    "imageSrc": "history/engdb.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
+    "role": "Functional Analyst",
+    "organisation": "AYESA",
     "startDate": "Apr, 2020",
     "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Analista de sistema",
+      "Criação de documentos e teste do sistema Operacionais da ENEL ",
+      "Sistema SalesForce"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/ayesa.jpg"
   }
 ]

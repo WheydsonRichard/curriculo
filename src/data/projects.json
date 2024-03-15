@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
+    "title": "Projeto Automação",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "Este é um projeto desenvolvido para realizar download de uma quantidade x de processo dentro do sistema judicial PJE.",
+    "skills": ["Ptython", "Pandas", "Tkinter"],
+    "source": "https://github.com/WheydsonRichard/AutomacaoPythonPje/blob/e0102c1b048557eae992f10e833432828ea8c6f3/appPje2.py"
+  },
+  {
+    "title": "Projeto Suite",
+    "imageSrc": "projects/project.png",
+    "description": "Este é um projeto de automação que realizar o arquivo dentro do sistem SUITE Windows Server.",
+    "skills": ["Python", "Pyautogui", "pandas"],
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Projeto Sistema Operacional",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "Este é um projeto desenvolvido para o operacional jurídico com mais de 100 users utilizando.",
+    "skills": ["React", "Pyhton", "postegrSQL"],
     "source": "https://www.github.com"
   }
 ]

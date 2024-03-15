@@ -6,10 +6,10 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h2 className={styles.title}>About</h2>
+      <h2 className={styles.title}>Sobre</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/wave.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -17,30 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Back-end Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Sou um Desenvolvedor Back-end com experiência no desenvolvimento de sistema Back-end rápido e otimizados e APIs..
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Functional Analyst</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Tenho Experiência como analista funcional realizando comunicações entre cliente e desenvolvedores para melhor desempenho de projetos.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Project Manager</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Eu gerenciei equipe de desenvolvedores para criação de sistema com complexidade alta para o jurídico.
               </p>
             </div>
           </li>
